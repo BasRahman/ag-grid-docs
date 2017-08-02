@@ -20,14 +20,14 @@ include('../includes/mediaHeader.php');
         <h3>The Road So Far</h3>
 
         <p>
-            23rd of December 2014. That is the date of the first ag-Grid commit to Github. Ten months later and
+            23rd of December 2014. That is the date of the first ag-Grid commit to Github. Ten months later
             I had the privilege of presenting my work at the Google conference
-            <a href="https://www.youtube.com/watch?v=gNhPeLCBbE0">Angular Connect</a> in London
-            to a room of hundreds of people and streamed live on Youtube. At the conference I was explaining how I
+            <a href="https://www.youtube.com/watch?v=gNhPeLCBbE0">Angular Connect</a> in London,
+            to a room of hundreds of people, live-streamed on Youtube. At the conference I was explaining how I
             made the grid super fast (which, btw, involved doing it all in Javascript and not using Angular).
         </p>
         <p>
-            ag-Grid is now one of the worlds leading datagrids for modern Javascript applications.
+            ag-Grid is now one of the world's leading datagrids for modern Javascript applications.
             It was born from the Angular world (as I was building Angular applications at the time) but it is now firmly
             framework agnostic - it has no dependencies on any framework.
         </p>
@@ -51,7 +51,7 @@ include('../includes/mediaHeader.php');
         </p>
 
         <p>
-            In 2016 I'll be working with ag-Grid alongside React demonstrating how the two work well with each other.
+            In 2016, I'll be working with ag-Grid alongside React, demonstrating how the two work well with each other.
             This is just to make things more comfortable for people using React. As far as I'm concerned, the grid
             is agnostic right now, so will already work inside a React application.
         </p>
@@ -68,7 +68,7 @@ include('../includes/mediaHeader.php');
             put in all add up to slowness.
             </li>
             <li><b>Less code</b> - in particular, no HTML and no bindings to worry about. Less code is easier to understand,
-            easier to test, easier to maintain.</li>
+            easier to test and, therefore, easier to maintain.</li>
         </ul>
         </p>
 
@@ -83,13 +83,13 @@ include('../includes/mediaHeader.php');
 
         <p>
             ag-Grid is given as open source so you can use it without payment. I did not choose open source
-            to create a community to contribute and build it out. Basically I am not a fan
+            to create a community to contribute and build it out. Basically, I am not a fan
             of 'Community Driven Development' in creating complex software like ag-Grid. If the project was less
-            complex, where a blueprint could be followed for the different parts, then community driven could work.
-            However that is not the case. The grid design is an evolving complex idea in the mind of Niall Crosby.
-            I can discuss the design and work with people when they sit beside me. But daily updates on email
+            complex, where a blueprint could be followed for the different parts, then community driven development could work.
+            However, that is not the case. The grid design is an evolving complex idea in the mind of Niall Crosby!
+            I can discuss the design and work with people when they sit beside me, but daily updates on email
             and organising conference calls doesn't result in the same magic. That's even assuming daily updates
-            and conference calls happen, wishful thinking if people are keeping day jobs!
+            and conference calls happen - wishful thinking if people are keeping day jobs!
         </p>
 
         <h3>Open Source or Day Job</h3>
@@ -107,7 +107,7 @@ include('../includes/mediaHeader.php');
         </p>
 
         <p>
-            BTW - Angular and React are managed by teams within their respective companies who get paid salaries.
+            BTW - Angular and React are managed by teams within their respective companies, who get paid salaries.
             These projects are funded as part of the overall strategies for making money for their companies.
         </p>
 
@@ -115,15 +115,15 @@ include('../includes/mediaHeader.php');
 
         <p>
             ag-Grid was built in my spare time. During the weekends and evenings of 2015 I must have spent in total
-            20 hours working on the grid each week. So for November and December 2015 I'm
+            20 hours working on the grid, each week. So for November and December 2015, I'm
             visiting beautiful India and Myanmar. Next year I'll be returning with lots of energy and continued enthusiasm.
         </p>
 
         <h3>The Vision for 2016</h3>
 
         <p>
-            I want to make ag-Grid the best grid it can possibly be. Originally the plan was just to create a
-            grid that matched my own requirements. However the community has encouraged me to want to provide
+            I want to make ag-Grid the best grid it can possibly be. Originally, the plan was just to create a
+            grid that matched my own requirements. However, the community has encouraged me to want to provide
             the best grid available for Javascript development. Next year I plan to focus on the following:
             <ul>
             <li><b>Close any Feature Gap:</b> Some 'core' items still need to get done, such as dragging columns to
@@ -132,10 +132,10 @@ include('../includes/mediaHeader.php');
             feature rich (as it is now), but feature complete. There will be nothing any other grid has on
             ag-Grid.
             </li>
-            <li><b>Promote all Frameworks:</b> The grid is agnostic. However I want to put work towards making it
-            clear it works with React and anything else. If any 'glue' logic is required to make the grid
-            work better with any framework then I will do this also. If any documentation is required to help
-            use the grid in these new ways, I will try to provide that also.</li>
+            <li><b>Promote all Frameworks:</b> The grid is agnostic. However, I want to work towards making it
+            clear that it works with React and anything else. If any 'glue' logic is required to make the grid
+            work better with any framework, then I will do this also. If any documentation is required to help
+            use the grid in these new ways, I will try to provide that as well.</li>
             <li><b>Support:</b> Continue to support the grid where I can.</li>
             <li><b>Greatly Enhance:</b> Take ag-Grid to the next level. Once the core features are in, I'll then
             work on it more, bringing the grid places where no grid has gone before.</li>
@@ -157,8 +157,8 @@ include('../includes/mediaHeader.php');
                 not include the time I spend implementing features that people influence me towards implementing.
                 I am considering a nominal fee for access to the forum - or to leave the
                 forum as it currently stands and create a new forum where I will frequent the new one, but leave
-                the old one should the community wish to help each other. It's fine allowing the whole
-                world download ag-Grid and use as that doesn't take my time. But if you're asking me questions,
+                the old one, should the community wish to help each other. It's fine allowing the whole
+                world download ag-Grid and use, as that doesn't take my time, but if you're asking me questions,
                 that does take from my time.
             </li>
             <li>
